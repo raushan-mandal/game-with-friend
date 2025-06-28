@@ -1,2 +1,0 @@
-# practicee
-first deploy
